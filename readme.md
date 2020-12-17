@@ -7,7 +7,7 @@
 2. 首先下载MaXTeX 网址是https://www.tug.org/mactex/
 
 
-3. 在vscode里面下载LaTeX workshop
+3. 在vscode里面下载LaTeX workshop和language support
 
 
 ![LaTeX workshop](https://user-images.githubusercontent.com/55370336/102499670-6b19a380-40b6-11eb-8dc6-aa225a6a8cb5.png)

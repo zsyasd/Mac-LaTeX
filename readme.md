@@ -22,4 +22,4 @@
 ![一个是build一个是预览](https://user-images.githubusercontent.com/55370336/102499676-6ce36700-40b6-11eb-9a1c-35155f9bb811.png)
 
 
-附上一个ieee的LaTeX格式文档，可以自己试一试。
+附上一个ieee和ijcai的LaTeX格式文档，可以自己试一试。
